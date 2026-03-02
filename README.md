@@ -22,3 +22,19 @@ limitation Export PBIDS
 Types of Data type
 
 <img width="1059" height="608" alt="image" src="https://github.com/user-attachments/assets/91755466-89ac-4830-a568-d4481b0b341f" />
+
+Column Profile 
+Column Quality
+Column distribution - distinct and unique 
+
+Query Dependencies 
+
+Reference vs Duplicate queries 
+
+Reference - 
+
+Duplicate - exact clone of the query that is copied from 
+
+Reference is the 
+
+<img width="955" height="540" alt="image" src="https://github.com/user-attachments/assets/db13b38b-9680-4d0e-8aad-8b4475f462b9" />
