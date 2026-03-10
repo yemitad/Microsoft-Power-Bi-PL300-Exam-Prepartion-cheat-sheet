@@ -2,6 +2,7 @@
 
 ## Prepare the Data(25%-30%)
 
+#Prepare the Data 
 
 **Privacy Levels** in power bi are used to control how data from different sources can be combined, preventing potential data leaks or unwanted data exposure between sources. 
 
